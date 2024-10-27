@@ -1,1 +1,1 @@
-This is a repository for Experimental Psychology Course paper by Maya Eli and Gali.
+This is a repository for Experimental Psychology Course paper by Maya Ely and Gali.
